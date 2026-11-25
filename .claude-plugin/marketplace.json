@@ -1,0 +1,12 @@
+{
+  "name": "tkhquang-agent-skills",
+  "description": "Agent skills for game design and game development.",
+  "owner": { "name": "tkhquang" },
+  "plugins": [
+    {
+      "name": "game-development",
+      "source": "./",
+      "description": "Skills for designing, building, testing and releasing games."
+    }
+  ]
+}

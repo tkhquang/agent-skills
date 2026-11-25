@@ -1,0 +1,9 @@
+{
+  "name": "game-development",
+  "version": "1.0.0",
+  "description": "Skills for designing, building, testing and releasing games.",
+  "author": { "name": "tkhquang" },
+  "repository": "https://github.com/tkhquang/agent-skills",
+  "license": "MIT",
+  "keywords": ["game-design", "game-development", "game-balance", "game-feel", "game-testing", "game-release", "agent-skills"]
+}
